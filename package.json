@@ -1,0 +1,26 @@
+{
+  "name": "openzeppelin-learn",
+  "version": "0.0.1",
+  "description": "",
+  "main": "scripts/index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "chai": "^4.3.4",
+    "ganache-cli": "^6.12.2",
+    "truffle": "^5.3.9"
+  },
+  "devDependencies": {
+    "mocha": "^8.4.0"
+  },
+  "scripts": {
+    "test": "mocha --exit --recursive"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cajogos/openzeppelin-learn.git"
+  },
+  "author": "",
+  "license": "ISC"
+}
