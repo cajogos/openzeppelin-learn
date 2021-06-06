@@ -12,6 +12,7 @@
     "truffle": "^5.3.9"
   },
   "devDependencies": {
+    "@truffle/hdwallet-provider": "^1.4.0",
     "mocha": "^8.4.0"
   },
   "scripts": {
